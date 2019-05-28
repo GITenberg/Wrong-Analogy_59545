@@ -1,5 +1,8 @@
 _repo: Wrong-Analogy_59545
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59545-h/images/cover.jpg
 creator:
   author:
     agent_name: Shallit, Joseph
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46122'
     url: http://www.gutenberg.org/2009/agents/46122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59545#Wrong-Analogy
 gutenberg_issued: '2019-05-19'
 gutenberg_type: Text
 identifiers:
